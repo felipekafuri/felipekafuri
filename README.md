@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on:
 
-***FindService*** -> https://github.com/felipekafuri/FindService
+***FindService*** -> https://github.com/felipekafuri/findservice-api
 
 ***GoBarber*** -> https://github.com/felipekafuri/GoBarber
 - 🌱 I’m currently learning: ReactJs, Node, React Native and Typescript
