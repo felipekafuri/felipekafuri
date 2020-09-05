@@ -10,8 +10,11 @@
 - 🌱 I’m currently learning: ReactJs, Node, React Native and Typescript
 - 📫 How to reach me: 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Kafuri-038cfc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipekafuri/)](https://www.linkedin.com/in/felipekafuri/) 
-[![Gmail Badge](https://img.shields.io/badge/-felipe11.rk@gmail.com-fc0b03?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe11.rk@gmail.com)](mailto:felipe11.rk@gmail.com)
+
+[![Gmail Badge](https://img.shields.io/badge/-felipe11.rk@gmail.com-fc0b03?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felipe11.rk@gmail.com)](mailto:felipe11.rk@gmail.com)
+[![Twitch Badge](https://img.shields.io/badge/-twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/felipekafuri)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipekafuri/)
+
 
 <div align="center">
   
