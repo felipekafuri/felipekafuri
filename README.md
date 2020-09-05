@@ -13,7 +13,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Kafuri-038cfc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipekafuri/)](https://www.linkedin.com/in/felipekafuri/) 
 [![Gmail Badge](https://img.shields.io/badge/-felipe11.rk@gmail.com-fc0b03?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe11.rk@gmail.com)](mailto:felipe11.rk@gmail.com)
 
-<div  style="display: flex; align-items: center; justify-content: space-around">
+<div align="center">
   
 <h3>Top Languages:</h3>
 
