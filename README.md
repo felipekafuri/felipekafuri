@@ -13,3 +13,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Kafuri-038cfc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipekafuri/)](https://www.linkedin.com/in/felipekafuri/) 
 [![Gmail Badge](https://img.shields.io/badge/-felipe11.rk@gmail.com-fc0b03?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe11.rk@gmail.com)](mailto:felipe11.rk@gmail.com)
 
+<h3>Top Languages:</h3>
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipekafuri&theme=tokyonight&show_icons=true)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipekafuri&hide=contribs,prs&theme=tokyonight&show_icons=true)
+
+</div>
