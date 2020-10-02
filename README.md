@@ -5,8 +5,7 @@
 - 🔭 I’m currently working on:
 
 ***Helpy*** -> https://github.com/Helpy-Company
-             -> https://app.helpy.com.br
-
+             -> https://www.app.helpy.com.br/
 - 🌱 I’m currently learning: ReactJs, Node, React Native and Typescript
 - 📫 How to reach me: 
 
