@@ -6,7 +6,6 @@
 
 ***Helpy*** -> https://github.com/Helpy-Company
 
-***GoBarber*** -> https://github.com/felipekafuri/GoBarber
 - 🌱 I’m currently learning: ReactJs, Node, React Native and Typescript
 - 📫 How to reach me: 
 
