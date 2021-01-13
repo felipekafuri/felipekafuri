@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on:
 
-***Helpy*** -> https://github.com/Helpy-Company
-             -> https://www.app.helpy.com.br/
-- 🌱 I’m currently learning: ReactJs, Node, React Native and Typescript
+***AnjoAnimal*** -> https://github.com/AnjoAnimal
+
+- 🌱 I’m currently learning: ReactJs, Next.Js, Node, React Native and Typescript
 - 📫 How to reach me: 
 
 
