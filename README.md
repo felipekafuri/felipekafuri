@@ -7,6 +7,9 @@
 ***AnjoAnimal*** -> https://github.com/AnjoAnimal/AnjoAnimal/blob/master/README.md
 
 - 🌱 I’m currently learning: ReactJs, Next.Js, Node, React Native and Typescript
+
+> Checkout my CV: [Felipe Ramos Kafuri - CV - EN.xlsx.pdf](https://github.com/felipekafuri/felipekafuri/files/6857002/Felipe.Ramos.Kafuri.-.CV.-.EN.xlsx.pdf)
+
 - 📫 How to reach me: 
 
 
@@ -15,7 +18,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipekafuri/)
 [![Youtube Badge](https://img.shields.io/badge/-youtube-fc0b03?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC46hDx-ZY5WaHKqE2HLE5vQ)
 
-> Checkout my CV: [Felipe Ramos Kafuri - CV - EN.xlsx.pdf](https://github.com/felipekafuri/felipekafuri/files/6857002/Felipe.Ramos.Kafuri.-.CV.-.EN.xlsx.pdf)
+
 
 <div align="center">
   
