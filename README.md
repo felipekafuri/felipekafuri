@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on:
 
-***AnjoAnimal*** -> https://github.com/AnjoAnimal
+***AnjoAnimal*** -> https://github.com/AnjoAnimal/AnjoAnimal/blob/master/README.md
 
 - 🌱 I’m currently learning: ReactJs, Next.Js, Node, React Native and Typescript
 - 📫 How to reach me: 
