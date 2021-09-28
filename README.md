@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning: ReactJs, Next.Js, Node, React Native and Typescript
 
-> Checkout my CV: [Felipe Ramos Kafuri - CV - EN.xlsx.pdf](https://github.com/felipekafuri/felipekafuri/files/6857002/Felipe.Ramos.Kafuri.-.CV.-.EN.xlsx.pdf)
-
 - 📫 How to reach me: 
 
 
