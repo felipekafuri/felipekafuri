@@ -32,7 +32,7 @@
 
 <div align="center">
   
-<h3>Top Languages:</h3>
+<h3>Some statistcs:</h3>
 <hr>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipekafuri&hide=contribs,prs&theme=tokyonight&show_icons=true)
