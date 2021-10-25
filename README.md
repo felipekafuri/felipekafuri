@@ -6,7 +6,7 @@
 
 ***ITrady*** -> https://github.com/felipekafuri/itrady-api
 
-- 🌱 I’m currently learning: ReactJs, Next.Js, Node, React Native and Typescript
+- 🌱 I’m currently learning: Python
 
 - 📫 How to reach me: 
 
