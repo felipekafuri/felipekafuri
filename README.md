@@ -16,6 +16,16 @@
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipekafuri/)
 [![Youtube Badge](https://img.shields.io/badge/-youtube-fc0b03?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC46hDx-ZY5WaHKqE2HLE5vQ)
 
+<h3>Repos I like most:</h3>
+<div style="display: inline_block"><br>
+<a href="https://github.com/felipekafuri/GoBarber">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=felipekafuri&repo=GoBarber&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+ <a href="https://github.com/AnjoAnimal/AnjoAnimal">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AnjoAnimal&repo=AnjoAnimal&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+ 
+</div>
 
 <div style="display: inline_block"><br>
   <img align="right" alt="FRK-gif" src="https://cdn.discordapp.com/attachments/818605438953848852/875541770652516382/FRK.gif">
