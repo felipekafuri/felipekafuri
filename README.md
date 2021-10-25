@@ -35,7 +35,6 @@
 <h3>Top Languages:</h3>
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipekafuri&theme=tokyonight&show_icons=true)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipekafuri&hide=contribs,prs&theme=tokyonight&show_icons=true)
 
 </div>
