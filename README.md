@@ -26,6 +26,7 @@
   <img align="center" alt="FRK-Mongo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="FRK-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="FRK-Redis" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">  
+   <img align="center" alt="FRK-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
 </div>
 
 
