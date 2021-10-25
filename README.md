@@ -6,7 +6,7 @@
 
 ***ITrady*** -> https://github.com/felipekafuri/itrady-api
 
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: **Python and Flask**
 
 - 📫 How to reach me: 
 
