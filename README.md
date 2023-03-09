@@ -30,20 +30,6 @@
 
 
 
-<h3>Repos I like most:</h3>
-<div style="display: inline_block"><br>
-<a href="https://github.com/felipekafuri/GoBarber">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=felipekafuri&repo=GoBarber&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
- <a href="https://github.com/AnjoAnimal/AnjoAnimal">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AnjoAnimal&repo=AnjoAnimal&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
- 
-</div>
-
-
-
-
 <div align="center">
   
 <h3>Some statistcs:</h3>
