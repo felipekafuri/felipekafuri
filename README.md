@@ -32,9 +32,9 @@
 
 <div align="center">
   
-<h3>Some statistcs:</h3>
-<hr>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipekafuri&hide=contribs,prs&theme=tokyonight&show_icons=true)
-
-</div>
+<h3>Cool projects:</h3>
+<ul>
+  <li>[Helpy API](https://github.com/felipekafuri/helpy-api)</li>
+  <li>[My app](https://apps.apple.com/br/app/anjoanimal/id1554482280)</li>
+  <li>[Go Barber](https://github.com/felipekafuri/GoBarber)</li>
+</ul>
