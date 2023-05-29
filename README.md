@@ -29,12 +29,11 @@
 [![Youtube Badge](https://img.shields.io/badge/-youtube-fc0b03?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjFt21y2nW9j4J1oGKr4WYw)
 
 
-
-<div align="center">
   
 <h3>Cool projects:</h3>
-<ul>
-  <li>[Helpy API](https://github.com/felipekafuri/helpy-api)</li>
-  <li>[My App](https://apps.apple.com/br/app/anjoanimal/id1554482280)</li>
-  <li>[Go Barber](https://github.com/felipekafuri/GoBarber)</li>
-</ul>
+ 
+  - [Helpy API](https://github.com/felipekafuri/helpy-api)
+  
+  - [My App](https://apps.apple.com/br/app/anjoanimal/id1554482280)
+  
+  - [Go Barber](https://github.com/felipekafuri/GoBarber)
