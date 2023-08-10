@@ -1,9 +1,8 @@
 # Felipe Ramos Kafuri
 
-### I am an ambitious problem solver, that always wants to do the great as possible, whether in my professional or personal life. I am easy going, knowing how to work and interact with people of all levels. I can take responsibility for my own work. I always look forward, searching for knowledge and working towards making a good impact on the future. 
+### I am an ambitious problem solver, that always wants to do the great as possible, whether in my professional or personal life. I am easygoing, knowing how to work and interact with people of all levels. I can take responsibility for my own work. I always look forward, searching for knowledge and working towards making a good impact on the future. 
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="FRK-gif" src="https://cdn.discordapp.com/attachments/818605438953848852/875541770652516382/FRK.gif">
   <img align="center" alt="FRK-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="FRK-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="FRK-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
