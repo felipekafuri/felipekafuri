@@ -32,8 +32,4 @@
   
 <h3>Cool projects:</h3>
  
-  - [Helpy API](https://github.com/felipekafuri/helpy-api)
-  
-  - [My App](https://apps.apple.com/br/app/anjoanimal/id1554482280)
-  
-  - [Go Barber](https://github.com/felipekafuri/GoBarber)
+  - [Pagode 🥁](https://pagode.dev/)
