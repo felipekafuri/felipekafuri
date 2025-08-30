@@ -14,8 +14,6 @@
   <img align="center" alt="FRK-GO" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"> 
 </div>
 
-- 🔭 I’m currently working on:
-  -> https://atlas.health/
 
 - 🌱 I’m currently learning: **Go**
 
