@@ -13,7 +13,7 @@
     - feliperk.dev@gmail.com   
 
 
-[![Gmail Badge](https://img.shields.io/badge/-fkinovatech@gmail.com-fc0b03?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felipe11.rk@gmail.com)](mailto:feliperk.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-feliperk.dev@gmail.com-fc0b03?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felipe11.rk@gmail.com)](mailto:feliperk.dev@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipekafuri/)
 [![Youtube Badge](https://img.shields.io/badge/-youtube-fc0b03?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjFt21y2nW9j4J1oGKr4WYw)
 
