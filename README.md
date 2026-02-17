@@ -22,4 +22,4 @@
 <h3>Cool projects:</h3>
  
   - [Pagode 🥁](https://pagode.dev/)
-  - [OpenFormy](https://github.com/pansani/openformy)
+  - [Bandeira](https://github.com/felipekafuri/bandeira)
